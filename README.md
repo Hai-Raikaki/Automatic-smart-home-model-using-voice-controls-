@@ -4,7 +4,9 @@
 
 - Group size: 4
 
-- My role: develop, fix the code and test the program with the complete model.
+- My role: develop, fix the code and test the program with the complete model
+
+- Project duration: Dec 2019 - Jan 2020
 
 <h2> 🏠 Smart home model</h2>
 <p align="center">
