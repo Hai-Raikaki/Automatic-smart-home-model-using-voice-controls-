@@ -10,12 +10,17 @@
 
 <h2>Components</h2>
 
-Smart phone: connecting to Internet help to transfer voice to Adafruit.
-Chip mcu esp8266: transferring code to devices.
-Servo: moving the door.
-Google assistant: transfer voice to Adafruit make devices working.
-Adafuit: support control devices.
-3 leds
+- Smart phone: connecting to Internet help to transfer voice to Adafruit.
+
+- Chip mcu esp8266: transferring code to devices.
+
+- Servo: moving the door.
+
+- Google assistant: transfer voice to Adafruit make devices working.
+
+- Adafuit: support control devices.
+
+- 3 leds
 
 <h2> 🏠 Smart home model</h2>
 <p align="center">
