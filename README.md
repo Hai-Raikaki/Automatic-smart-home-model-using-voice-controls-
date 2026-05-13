@@ -16,9 +16,9 @@
 
 - Servo: moving the door.
 
-- Google assistant: transfer voice to Adafruit make devices working.
+- Google Assistant: transfer voice to Adafruit make devices working.
 
-- Adafuit: support control devices.
+- Adafruit: support control devices.
 
 - 3 leds
 
