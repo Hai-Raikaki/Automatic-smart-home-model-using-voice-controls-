@@ -12,7 +12,7 @@
 
 - Smart phone: connecting to Internet help to transfer voice to Adafruit.
 
-- Chip mcu esp8266: transferring code to devices.
+- ESP8266: transferring code to devices.
 
 - Servo: moving the door.
 
