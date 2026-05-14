@@ -18,6 +18,8 @@
 
 - Google Assistant: transfer voice to Adafruit make devices working.
 
+- IFTTT: Set up the connection between Adafruit and Google Assistant.
+
 - Adafruit: support control devices.
 
 - 3 leds
